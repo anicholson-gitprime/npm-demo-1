@@ -1,0 +1,13 @@
+{
+  "name": "npm-demo-client",
+  "version": "0.0.1",
+  "author": "anicholson-gitprime",
+  "license": "",
+  "scripts": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {},
+  "publishConfig": {
+    "registry": "https://repository.vnerd.com/artifactory/api/npm/npm-pluralsight/"
+  }
+}
